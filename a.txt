@@ -1,1 +1,5 @@
-hello git
+#include <stido.h>
+
+int main(){
+    printf("hello git]n");
+}
